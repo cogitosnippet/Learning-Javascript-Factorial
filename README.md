@@ -3,4 +3,4 @@ Created A simple Factorial logic using two methods .
 
 
 1. Using Basic for loop method.
-2. Using Array and reduce method.........
+2. Using Array and reduce method.
